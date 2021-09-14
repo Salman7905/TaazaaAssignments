@@ -1,0 +1,16 @@
+C:\day5\CollectionAssignment\bin\Debug\net5.0\CollectionAssignment.exe
+C:\day5\CollectionAssignment\bin\Debug\net5.0\CollectionAssignment.deps.json
+C:\day5\CollectionAssignment\bin\Debug\net5.0\CollectionAssignment.runtimeconfig.json
+C:\day5\CollectionAssignment\bin\Debug\net5.0\CollectionAssignment.runtimeconfig.dev.json
+C:\day5\CollectionAssignment\bin\Debug\net5.0\CollectionAssignment.dll
+C:\day5\CollectionAssignment\bin\Debug\net5.0\ref\CollectionAssignment.dll
+C:\day5\CollectionAssignment\bin\Debug\net5.0\CollectionAssignment.pdb
+C:\day5\CollectionAssignment\obj\Debug\net5.0\CollectionAssignment.csproj.AssemblyReference.cache
+C:\day5\CollectionAssignment\obj\Debug\net5.0\CollectionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\day5\CollectionAssignment\obj\Debug\net5.0\CollectionAssignment.AssemblyInfoInputs.cache
+C:\day5\CollectionAssignment\obj\Debug\net5.0\CollectionAssignment.AssemblyInfo.cs
+C:\day5\CollectionAssignment\obj\Debug\net5.0\CollectionAssignment.csproj.CoreCompileInputs.cache
+C:\day5\CollectionAssignment\obj\Debug\net5.0\CollectionAssignment.dll
+C:\day5\CollectionAssignment\obj\Debug\net5.0\ref\CollectionAssignment.dll
+C:\day5\CollectionAssignment\obj\Debug\net5.0\CollectionAssignment.pdb
+C:\day5\CollectionAssignment\obj\Debug\net5.0\CollectionAssignment.genruntimeconfig.cache
