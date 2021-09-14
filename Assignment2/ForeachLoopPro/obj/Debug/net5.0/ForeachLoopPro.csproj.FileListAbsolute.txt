@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ForeachLoopPro.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ForeachLoopPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ForeachLoopPro.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ForeachLoopPro.AssemblyInfo.cs
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ForeachLoopPro.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\bin\Debug\net5.0\ForeachLoopPro.exe
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\bin\Debug\net5.0\ForeachLoopPro.deps.json
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\bin\Debug\net5.0\ForeachLoopPro.runtimeconfig.json
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\bin\Debug\net5.0\ForeachLoopPro.runtimeconfig.dev.json
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\bin\Debug\net5.0\ForeachLoopPro.dll
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\bin\Debug\net5.0\ref\ForeachLoopPro.dll
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\bin\Debug\net5.0\ForeachLoopPro.pdb
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ForeachLoopPro.dll
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ref\ForeachLoopPro.dll
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ForeachLoopPro.pdb
+C:\TaazaaTraining\Assignment1\ForeachLoopPro\obj\Debug\net5.0\ForeachLoopPro.genruntimeconfig.cache

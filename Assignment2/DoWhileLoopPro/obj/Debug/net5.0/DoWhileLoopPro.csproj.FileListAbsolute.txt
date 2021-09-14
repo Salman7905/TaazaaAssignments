@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\bin\Debug\net5.0\DoWhileLoopPro.exe
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\bin\Debug\net5.0\DoWhileLoopPro.deps.json
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\bin\Debug\net5.0\DoWhileLoopPro.runtimeconfig.json
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\bin\Debug\net5.0\DoWhileLoopPro.runtimeconfig.dev.json
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\bin\Debug\net5.0\DoWhileLoopPro.dll
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\bin\Debug\net5.0\ref\DoWhileLoopPro.dll
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\bin\Debug\net5.0\DoWhileLoopPro.pdb
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\DoWhileLoopPro.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\DoWhileLoopPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\DoWhileLoopPro.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\DoWhileLoopPro.AssemblyInfo.cs
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\DoWhileLoopPro.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\DoWhileLoopPro.dll
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\ref\DoWhileLoopPro.dll
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\DoWhileLoopPro.pdb
+C:\TaazaaTraining\Assignment1\DoWhileLoopPro\obj\Debug\net5.0\DoWhileLoopPro.genruntimeconfig.cache

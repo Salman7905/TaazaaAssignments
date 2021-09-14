@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Assignment1\StringPro\bin\Debug\net5.0\StringPro.exe
+C:\TaazaaTraining\Assignment1\StringPro\bin\Debug\net5.0\StringPro.deps.json
+C:\TaazaaTraining\Assignment1\StringPro\bin\Debug\net5.0\StringPro.runtimeconfig.json
+C:\TaazaaTraining\Assignment1\StringPro\bin\Debug\net5.0\StringPro.runtimeconfig.dev.json
+C:\TaazaaTraining\Assignment1\StringPro\bin\Debug\net5.0\StringPro.dll
+C:\TaazaaTraining\Assignment1\StringPro\bin\Debug\net5.0\ref\StringPro.dll
+C:\TaazaaTraining\Assignment1\StringPro\bin\Debug\net5.0\StringPro.pdb
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\StringPro.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\StringPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\StringPro.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\StringPro.AssemblyInfo.cs
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\StringPro.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\StringPro.dll
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\ref\StringPro.dll
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\StringPro.pdb
+C:\TaazaaTraining\Assignment1\StringPro\obj\Debug\net5.0\StringPro.genruntimeconfig.cache
