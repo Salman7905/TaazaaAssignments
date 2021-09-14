@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\bin\Debug\net5.0\SwitchCaseProgram.exe
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\bin\Debug\net5.0\SwitchCaseProgram.deps.json
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\bin\Debug\net5.0\SwitchCaseProgram.runtimeconfig.json
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\bin\Debug\net5.0\SwitchCaseProgram.runtimeconfig.dev.json
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\bin\Debug\net5.0\SwitchCaseProgram.dll
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\bin\Debug\net5.0\ref\SwitchCaseProgram.dll
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\bin\Debug\net5.0\SwitchCaseProgram.pdb
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\SwitchCaseProgram.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\SwitchCaseProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\SwitchCaseProgram.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\SwitchCaseProgram.AssemblyInfo.cs
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\SwitchCaseProgram.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\SwitchCaseProgram.dll
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\ref\SwitchCaseProgram.dll
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\SwitchCaseProgram.pdb
+C:\TaazaaTraining\Day6Assignment\SwitchCaseProgram\obj\Debug\net5.0\SwitchCaseProgram.genruntimeconfig.cache
