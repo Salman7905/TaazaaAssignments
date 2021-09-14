@@ -1,0 +1,16 @@
+C:\TaazaaTraining\day8P\SwitchCasePractice\bin\Debug\net5.0\SwitchCasePractice.exe
+C:\TaazaaTraining\day8P\SwitchCasePractice\bin\Debug\net5.0\SwitchCasePractice.deps.json
+C:\TaazaaTraining\day8P\SwitchCasePractice\bin\Debug\net5.0\SwitchCasePractice.runtimeconfig.json
+C:\TaazaaTraining\day8P\SwitchCasePractice\bin\Debug\net5.0\SwitchCasePractice.runtimeconfig.dev.json
+C:\TaazaaTraining\day8P\SwitchCasePractice\bin\Debug\net5.0\SwitchCasePractice.dll
+C:\TaazaaTraining\day8P\SwitchCasePractice\bin\Debug\net5.0\ref\SwitchCasePractice.dll
+C:\TaazaaTraining\day8P\SwitchCasePractice\bin\Debug\net5.0\SwitchCasePractice.pdb
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\SwitchCasePractice.csproj.AssemblyReference.cache
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\SwitchCasePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\SwitchCasePractice.AssemblyInfoInputs.cache
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\SwitchCasePractice.AssemblyInfo.cs
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\SwitchCasePractice.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\SwitchCasePractice.dll
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\ref\SwitchCasePractice.dll
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\SwitchCasePractice.pdb
+C:\TaazaaTraining\day8P\SwitchCasePractice\obj\Debug\net5.0\SwitchCasePractice.genruntimeconfig.cache
