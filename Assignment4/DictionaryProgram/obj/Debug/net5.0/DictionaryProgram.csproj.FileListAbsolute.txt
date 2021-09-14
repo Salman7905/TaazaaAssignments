@@ -1,0 +1,16 @@
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\bin\Debug\net5.0\DictionaryProgram.exe
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\bin\Debug\net5.0\DictionaryProgram.deps.json
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\bin\Debug\net5.0\DictionaryProgram.runtimeconfig.json
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\bin\Debug\net5.0\DictionaryProgram.runtimeconfig.dev.json
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\bin\Debug\net5.0\DictionaryProgram.dll
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\bin\Debug\net5.0\ref\DictionaryProgram.dll
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\bin\Debug\net5.0\DictionaryProgram.pdb
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\DictionaryProgram.csproj.AssemblyReference.cache
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\DictionaryProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\DictionaryProgram.AssemblyInfoInputs.cache
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\DictionaryProgram.AssemblyInfo.cs
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\DictionaryProgram.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\DictionaryProgram.dll
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\ref\DictionaryProgram.dll
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\DictionaryProgram.pdb
+C:\TaazaaTraining\day4Assignments\DictionaryProgram\obj\Debug\net5.0\DictionaryProgram.genruntimeconfig.cache

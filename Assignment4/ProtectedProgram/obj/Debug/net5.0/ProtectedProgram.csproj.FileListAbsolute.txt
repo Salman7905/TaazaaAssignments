@@ -1,0 +1,16 @@
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\bin\Debug\net5.0\ProtectedProgram.exe
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\bin\Debug\net5.0\ProtectedProgram.deps.json
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\bin\Debug\net5.0\ProtectedProgram.runtimeconfig.json
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\bin\Debug\net5.0\ProtectedProgram.runtimeconfig.dev.json
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\bin\Debug\net5.0\ProtectedProgram.dll
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\bin\Debug\net5.0\ref\ProtectedProgram.dll
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\bin\Debug\net5.0\ProtectedProgram.pdb
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ProtectedProgram.csproj.AssemblyReference.cache
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ProtectedProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ProtectedProgram.AssemblyInfoInputs.cache
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ProtectedProgram.AssemblyInfo.cs
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ProtectedProgram.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ProtectedProgram.dll
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ref\ProtectedProgram.dll
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ProtectedProgram.pdb
+C:\TaazaaTraining\day4Assignments\ProtectedProgram\obj\Debug\net5.0\ProtectedProgram.genruntimeconfig.cache

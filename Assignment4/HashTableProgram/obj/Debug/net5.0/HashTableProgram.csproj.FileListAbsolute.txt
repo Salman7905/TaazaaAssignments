@@ -1,0 +1,16 @@
+C:\TaazaaTraining\day4Assignments\HashTableProgram\bin\Debug\net5.0\HashTableProgram.exe
+C:\TaazaaTraining\day4Assignments\HashTableProgram\bin\Debug\net5.0\HashTableProgram.deps.json
+C:\TaazaaTraining\day4Assignments\HashTableProgram\bin\Debug\net5.0\HashTableProgram.runtimeconfig.json
+C:\TaazaaTraining\day4Assignments\HashTableProgram\bin\Debug\net5.0\HashTableProgram.runtimeconfig.dev.json
+C:\TaazaaTraining\day4Assignments\HashTableProgram\bin\Debug\net5.0\HashTableProgram.dll
+C:\TaazaaTraining\day4Assignments\HashTableProgram\bin\Debug\net5.0\ref\HashTableProgram.dll
+C:\TaazaaTraining\day4Assignments\HashTableProgram\bin\Debug\net5.0\HashTableProgram.pdb
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\HashTableProgram.csproj.AssemblyReference.cache
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\HashTableProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\HashTableProgram.AssemblyInfoInputs.cache
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\HashTableProgram.AssemblyInfo.cs
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\HashTableProgram.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\HashTableProgram.dll
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\ref\HashTableProgram.dll
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\HashTableProgram.pdb
+C:\TaazaaTraining\day4Assignments\HashTableProgram\obj\Debug\net5.0\HashTableProgram.genruntimeconfig.cache
