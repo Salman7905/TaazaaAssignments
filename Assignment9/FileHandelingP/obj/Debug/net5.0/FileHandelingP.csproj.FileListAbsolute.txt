@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Day8\FileHandelingP\bin\Debug\net5.0\FileHandelingP.exe
+C:\TaazaaTraining\Day8\FileHandelingP\bin\Debug\net5.0\FileHandelingP.deps.json
+C:\TaazaaTraining\Day8\FileHandelingP\bin\Debug\net5.0\FileHandelingP.runtimeconfig.json
+C:\TaazaaTraining\Day8\FileHandelingP\bin\Debug\net5.0\FileHandelingP.runtimeconfig.dev.json
+C:\TaazaaTraining\Day8\FileHandelingP\bin\Debug\net5.0\FileHandelingP.dll
+C:\TaazaaTraining\Day8\FileHandelingP\bin\Debug\net5.0\ref\FileHandelingP.dll
+C:\TaazaaTraining\Day8\FileHandelingP\bin\Debug\net5.0\FileHandelingP.pdb
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\FileHandelingP.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\FileHandelingP.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\FileHandelingP.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\FileHandelingP.AssemblyInfo.cs
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\FileHandelingP.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\FileHandelingP.dll
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\ref\FileHandelingP.dll
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\FileHandelingP.pdb
+C:\TaazaaTraining\Day8\FileHandelingP\obj\Debug\net5.0\FileHandelingP.genruntimeconfig.cache

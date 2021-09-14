@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Day9\ExceptionHandelingP\bin\Debug\net5.0\ExceptionHandelingP.exe
+C:\TaazaaTraining\Day9\ExceptionHandelingP\bin\Debug\net5.0\ExceptionHandelingP.deps.json
+C:\TaazaaTraining\Day9\ExceptionHandelingP\bin\Debug\net5.0\ExceptionHandelingP.runtimeconfig.json
+C:\TaazaaTraining\Day9\ExceptionHandelingP\bin\Debug\net5.0\ExceptionHandelingP.runtimeconfig.dev.json
+C:\TaazaaTraining\Day9\ExceptionHandelingP\bin\Debug\net5.0\ExceptionHandelingP.dll
+C:\TaazaaTraining\Day9\ExceptionHandelingP\bin\Debug\net5.0\ref\ExceptionHandelingP.dll
+C:\TaazaaTraining\Day9\ExceptionHandelingP\bin\Debug\net5.0\ExceptionHandelingP.pdb
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ExceptionHandelingP.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ExceptionHandelingP.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ExceptionHandelingP.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ExceptionHandelingP.AssemblyInfo.cs
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ExceptionHandelingP.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ExceptionHandelingP.dll
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ref\ExceptionHandelingP.dll
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ExceptionHandelingP.pdb
+C:\TaazaaTraining\Day9\ExceptionHandelingP\obj\Debug\net5.0\ExceptionHandelingP.genruntimeconfig.cache

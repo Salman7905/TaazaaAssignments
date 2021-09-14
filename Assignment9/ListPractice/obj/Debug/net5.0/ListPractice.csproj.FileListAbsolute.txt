@@ -1,0 +1,16 @@
+C:\TaazaaTraining\Day9\ListPractice\bin\Debug\net5.0\ListPractice.exe
+C:\TaazaaTraining\Day9\ListPractice\bin\Debug\net5.0\ListPractice.deps.json
+C:\TaazaaTraining\Day9\ListPractice\bin\Debug\net5.0\ListPractice.runtimeconfig.json
+C:\TaazaaTraining\Day9\ListPractice\bin\Debug\net5.0\ListPractice.runtimeconfig.dev.json
+C:\TaazaaTraining\Day9\ListPractice\bin\Debug\net5.0\ListPractice.dll
+C:\TaazaaTraining\Day9\ListPractice\bin\Debug\net5.0\ref\ListPractice.dll
+C:\TaazaaTraining\Day9\ListPractice\bin\Debug\net5.0\ListPractice.pdb
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ListPractice.csproj.AssemblyReference.cache
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ListPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ListPractice.AssemblyInfoInputs.cache
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ListPractice.AssemblyInfo.cs
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ListPractice.csproj.CoreCompileInputs.cache
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ListPractice.dll
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ref\ListPractice.dll
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ListPractice.pdb
+C:\TaazaaTraining\Day9\ListPractice\obj\Debug\net5.0\ListPractice.genruntimeconfig.cache
